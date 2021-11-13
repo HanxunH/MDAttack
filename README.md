@@ -12,7 +12,7 @@ python main.py --defence [Choice from defence models] \
 ```
 - `bs` as batch size.
 - `eps` as the epsilon.
-- Defence modesl evaluated in the paper are available in the `defence` folder.
+- Defence models evaluated in the paper are available in the defence folder.
 - The following attacks are implemented `['MD', 'MDMT', 'MDE', 'PGD', 'CW', 'PGD-ODI']`, Auto Attacks aviliable at this [link]( https://github.com/fra31/auto-attack)
 
 
