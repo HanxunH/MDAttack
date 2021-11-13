@@ -23,3 +23,4 @@ python main.py --defence [Choice from defence models] \
   - RST: https://github.com/yaircarmon/semisup-adv
   - AutoAttack: https://github.com/fra31/auto-attack
   - ODI-PGD https://github.com/ermongroup/ODS
+  - Linxi Jiang implementation on MD attack https://github.com/Jack-lx-jiang/MD_attacks
