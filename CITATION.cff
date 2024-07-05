@@ -1,0 +1,47 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Ma"
+  given-names: "Xingjun"
+  orcid: "https://orcid.org/0000-0003-2099-4973"
+- family-names: "Jiang"
+  given-names: "Linxi"
+- family-names: "Huang"
+  given-names: "Hanxun"
+  orcid: "https://orcid.org/0000-0002-2793-6680"
+- family-names: "Weng"
+  given-names: "Zejia"
+- family-names: "Bailey"
+  given-names: "James"
+  orcid: "https://orcid.org/0000-0002-3769-3811"
+- family-names: "Jiang"
+  given-names: "Yu-Gang"
+title: "Imbalanced gradients: a subtle cause of overestimated adversarial robustness"
+version: 0.0.1
+date-released: 2021-11-13
+url: "https://github.com/HanxunH/MDAttack"
+preferred-citation:
+  type: article
+  title: "Imbalanced gradients: a subtle cause of overestimated adversarial robustness"
+  authors:
+    - family-names: "Ma"
+      given-names: "Xingjun"
+      orcid: "https://orcid.org/0000-0003-2099-4973"
+    - family-names: "Jiang"
+      given-names: "Linxi"
+    - family-names: "Huang"
+      given-names: "Hanxun"
+      orcid: "https://orcid.org/0000-0002-2793-6680"
+    - family-names: "Weng"
+      given-names: "Zejia"
+    - family-names: "Bailey"
+      given-names: "James"
+      orcid: "https://orcid.org/0000-0002-3769-3811"
+    - family-names: "Jiang"
+      given-names: "Yu-Gang"
+  journal: "Machine Learning"
+  start: 1 
+  end: 26
+  year: 2023
+  publisher:
+    name: "Springer"
